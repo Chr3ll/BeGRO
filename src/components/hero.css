@@ -1,0 +1,272 @@
+.hero-header78 {
+  gap: var(--dl-layout-space-threeunits);
+  width: 100%;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.hero-column {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  width: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding-bottom: var(--dl-layout-space-unit);
+}
+ 
+.hero-content1 {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.hero-text1 {
+  text-align: center;
+  font-family: "Fira Sans";
+  font-weight: 400;
+}
+ 
+.hero-text2 {
+  text-align: center;
+  font-family: "Fira Sans";
+  font-weight: 400;
+}
+ 
+.hero-text3 {
+  text-align: center;
+}
+ 
+.hero-actions {
+  gap: var(--dl-layout-space-unit);
+  display: flex;
+  align-items: flex-start;
+  padding-top: var(--dl-layout-space-unit);
+}
+ 
+.hero-content2 {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  width: 100%;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.hero-row-container1 {
+  width: 100%;
+}
+ 
+.hero-strip1 {
+  align-items: center;
+  justify-content: flex-start;
+}
+ 
+.hero-image10 {
+  width: 200px;
+  object-fit: cover;
+}
+ 
+.hero-image11 {
+  width: 200px;
+  object-fit: cover;
+}
+ 
+.hero-image12 {
+  width: 200px;
+  object-fit: cover;
+}
+ 
+.hero-image13 {
+  width: 200px;
+  object-fit: cover;
+}
+ 
+.hero-image14 {
+  width: 200px;
+  object-fit: cover;
+}
+ 
+.hero-placeholder-image10 {
+  width: 400px;
+  height: 400px;
+}
+ 
+.hero-placeholder-image11 {
+  width: 400px;
+  height: 400px;
+}
+ 
+.hero-placeholder-image12 {
+  width: 400px;
+  height: 400px;
+}
+ 
+.hero-placeholder-image13 {
+  width: 400px;
+  height: 400px;
+}
+ 
+.hero-placeholder-image14 {
+  width: 400px;
+  height: 400px;
+}
+ 
+.hero-placeholder-image15 {
+  width: 400px;
+  height: 400px;
+}
+ 
+.hero-container1 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+ 
+.hero-container2 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+ 
+.hero-container3 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+ 
+.hero-container4 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+ 
+.hero-container5 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+ 
+.hero-image15 {
+  width: 200px;
+  align-self: center;
+  object-fit: cover;
+  padding-right: 4px;
+}
+ 
+.hero-image16 {
+  width: 200px;
+  align-self: center;
+  object-fit: cover;
+}
+ 
+.hero-image17 {
+  width: 200px;
+  align-self: center;
+  object-fit: cover;
+}
+ 
+.hero-image18 {
+  width: 200px;
+  align-self: center;
+  object-fit: cover;
+}
+ 
+.hero-image19 {
+  width: 200px;
+  object-fit: cover;
+}
+ 
+.hero-row-container2 {
+  width: 100%;
+}
+ 
+.hero-strip3 {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+}
+ 
+.hero-placeholder-image16 {
+  width: 400px;
+  height: 400px;
+}
+ 
+.hero-placeholder-image17 {
+  width: 400px;
+  height: 400px;
+}
+ 
+.hero-placeholder-image18 {
+  width: 400px;
+  height: 400px;
+}
+ 
+.hero-placeholder-image19 {
+  width: 400px;
+  height: 400px;
+}
+ 
+.hero-placeholder-image20 {
+  width: 400px;
+  height: 400px;
+}
+ 
+.hero-placeholder-image21 {
+  width: 400px;
+  height: 400px;
+}
+ 
+.hero-container7 {
+  display: contents;
+}
+ 
+.hero-text6 {
+  display: inline-block;
+}
+ 
+.hero-text7 {
+  display: inline-block;
+}
+ 
+.hero-text8 {
+  display: inline-block;
+}
+ 
+@media(max-width: 767px) {
+  .hero-content2 {
+    width: 100%;
+  }
+}
+ 
+@media(max-width: 479px) {
+  .hero-actions {
+    width: 100%;
+    flex-direction: column;
+  }
+  .hero-button1 {
+    width: 100%;
+  }
+  .hero-button2 {
+    width: 100%;
+  }
+}
