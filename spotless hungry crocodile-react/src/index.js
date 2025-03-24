@@ -17,8 +17,8 @@ const App = () => {
       <Switch>
         <Route component={NotFound1} exact path="/not-found" />
         <Route component={Home} exact path="/" />
-        <Route component={NotFound} path="**" />
-        <Redirect to="**" />
+        <Route component={NotFound} path="catch-all" />
+        //<Redirect to="**" />
       </Switch>
     </Router>
   )
